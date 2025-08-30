@@ -53,6 +53,7 @@ You can choose a study mode using the dropdown at the top of the app window:
 | `bird_taxon_list.csv`  | Auto-generated file with eBird taxon codes       |
 | `familiarity.json`     | Auto-saved progress tracking your familiarity     |
 | `quiz_from_csv.exe`    | Executable to launch the app                     |
+| `quiz_from_csv.py`     | Source python code for the app                |
 
 ---
 
@@ -60,7 +61,7 @@ You can choose a study mode using the dropdown at the top of the app window:
 
 - The app only opens links to eBird’s official media pages using taxon codes, so you **need to be online** to view bird images.
 - This tool is intended for **personal and educational use only**. Please respect the terms of use of Macaulay Library and eBird.
-
+- This project was developed with the help of ChatGPT for code generation, debugging, and documentation suggestions.
 ---
 
 Happy birding! 🐦
